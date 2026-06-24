@@ -3,7 +3,7 @@ layout: post
 title: A New Chapter
 subtitle:
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/new-chapter-text-written-typewriter.jpg
 share-img: /assets/img/path.jpg
 tags:
   - test
