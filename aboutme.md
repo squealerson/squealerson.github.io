@@ -4,15 +4,8 @@ title: About me
 subtitle: Because it really is all about me
 ---
 
-My name is squealerson. It isn't my real name but I've used it online for a decade or so. If in doubt, it is me, the one and only squealerson.
+My name is squealerson. I've been using it online for a decade or so. It doesn't really mean anything, it's just a made up name. 
 
 - 
 - 
 
-What else do you need?
-
-### Favorite movie
-
-### Favorite music
-
-### Favorite hobby
