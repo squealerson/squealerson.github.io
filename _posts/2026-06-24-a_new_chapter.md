@@ -3,7 +3,7 @@ layout: post
 title: A New Chapter
 subtitle:
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/new-chapter-text-written-typewriter.jpg
+thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags:
   - test
@@ -20,4 +20,4 @@ A few months later, a Monday morning, I got a phone call from my other guy that 
 
 So I made my exit plan. A full financial assessment made me realize that I was closer to financial independence than I originally had thought. Over the next year I quietly planned my retirement. I wasn't sure I could do it so I didn't tell anyone. Then as corporate life tends to do, my leadership made some decisions that impacted my team (i.e. they laid people off) without even telling me. Just a "have someone else on your team pick up their work, it will be fine." That's when I told my boss I've had it, I'm leaving. Let someone else pickup the pieces.
 
-So on January 2nd of the next year I retired. I worked my last day for someone else. It's been two and half years since then and I've not regretted that decision for a single moment. When others find out you're retiring they all ask the same question. What are you going to do with all of that free time? As with any new chapter in life, you don't really know. So you throw out the standard lines about traveling a lot or taking on new hobbies. The truth is much better than that though. It takes some adjustment to build new routines and rediscover those things you truly enjoy. That is the greatest part about having the freedom to leave work for pay behind. It's about the journey and about writing the next chapter of life. A new chapter filled with all the unknowns and surprises that life has to offer.
+So on January 2nd of the next year I retired. I finally decided that even if they would pay me, I wasn't showing up anymore. I was free from the golden handcuffs. It's been two and half years since then and I've not regretted that decision for a single moment. When others find out you're retiring they all ask the same question. What are you going to do with all of that free time? As with any new chapter in life, you don't really know. So you throw out the standard lines about traveling a lot or taking on new hobbies. The truth is much better than that though. It takes some adjustment to build new routines and rediscover those things you truly enjoy. That is the greatest part about having the freedom to leave work for pay behind. It's about the journey and about writing the next chapter of life. A new chapter filled with all the unknowns and surprises that life has to offer.
