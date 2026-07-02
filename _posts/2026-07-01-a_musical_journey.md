@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/stratocaster.png
 share-img: /assets/img/path.jpg
 tags:
   - music
+---
 
 I've always loved music. My first memories of that recognition came when I was probably six or seven years old. My parents didn't listen to a lot of music so there wasn't much around the house. There was, however, a couple of old albums in the drawer of a coffee table in the living room along with a console stereo system. Once I demonstrated that I could work it correctly (i.e. without breaking it or taking it apart), I was allowed to listen to some of those albums. There was really only one that I liked though - "Whipped Cream and Other Delights" by Herb Alpert and the Tijuana Brass. Not just liked it, I loved it. I would sit in front of the console stereo and play side one over and over, bopping my head back and forth while marveling over the stereo sound emanating from the speakers. Even listening to those songs now brings back such fond memories. I felt like I had discovered something remarkable and that feeling has always persisted in my life.
 
