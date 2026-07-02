@@ -2,9 +2,9 @@
 layout: post
 title: A Musical Journey
 subtitle:
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/guitar_strings.png
 thumbnail-img: /assets/img/stratocaster.jpg
-share-img: /assets/img/path.jpg
+share-img: /assets/img/guitar_strings.png
 tags:
   - music
 ---
